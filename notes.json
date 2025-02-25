@@ -1,1 +1,5 @@
-[{"title":"my title","body":"my body"},{"title":"t","body":"b"},{"title":"title part","body":"body part"}]
+[
+  { "title": "my title", "body": "my body" },
+  { "title": "t", "body": "b" },
+  { "title": "title part", "body": "body part" }
+]
